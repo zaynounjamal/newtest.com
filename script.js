@@ -38,7 +38,7 @@ function greetUser() {
         imageContainer.innerHTML = '';  // Clear any existing images
         
         const img = document.createElement('img');
-        img.src = 'https://github.com/zaynounjamal/newtest3.com/blob/main/sylvana.jpg?raw=true';  // Replace with the path to your image
+        img.src = 'https://github.com/zaynounjamal/newtest3.com/blob/main/images/sylvana.jpg?raw=true';  // Replace with the path to your image
         img.alt = 'Description of the image';
 
         // Debugging: Log image path to ensure it's correct
