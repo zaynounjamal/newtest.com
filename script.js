@@ -38,7 +38,7 @@ function greetUser() {
         imageContainer.innerHTML = '';  // Clear any existing images
         
         const img = document.createElement('img');
-        img.src = 'images/sylvana.jpg';  // Replace with the path to your image
+        img.src = 'sylvana.jpg';  // Replace with the path to your image
         img.alt = 'Description of the image';
 
         // Debugging: Log image path to ensure it's correct
